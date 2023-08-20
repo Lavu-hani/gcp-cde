@@ -3,5 +3,5 @@ CREATE TABLE accounts (
     name VARCHAR(100),
     mobile_number VARCHAR(20),
     email VARCHAR(100),
-    password VARCHAR(255)
+    password VARCHAR(20)
 );
